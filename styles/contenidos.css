@@ -1,0 +1,31 @@
+
+.java{
+    padding: 20px;
+    font-family: "DynaPuff", cursive;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 13px 13px 33px -4px rgba(117, 30, 30, 0.75);
+    background: #1cb2ed;
+    background: linear-gradient(90deg, rgba(28, 178, 237, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+
+}
+/* ESTO SI NOS DESCARGAMOS LA FUENTE, LA APLICAMOS A LOS CONTENIDOS 
+ @font-face {
+    font-family: DynaPuff;
+    src: url('../fonts/DynaPuff-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+} */
+
+.java .titulo {
+    background-image:url(../media/banner.webp);
+    color: white;
+    background-size: cover;
+    width: 350px; 
+    height: 150px;
+    margin-bottom: 10%; 
+     
+}
+.java .titulo h2{
+    margin-left: 55px;
+}
